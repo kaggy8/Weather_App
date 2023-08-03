@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Weather_App
+
+  Created by Stanislav Demyanov on 02.08.2023.
+  
+*/
+
+"Enter city" = "Enter city";
+"Get Weather" = "Get Weather";
+"Error" = "Error";
+"EmptyCityMessage" = "You didn't enter a city";
+"InvalidCityMessage" = "No such city was found";

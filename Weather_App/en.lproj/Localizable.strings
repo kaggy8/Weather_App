@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Weather_App
+
+  Created by Stanislav Demyanov on 31.07.2023.
+  
+*/
+
+"Enter city" = "Enter city";
+"Get Weather" = "Получить погоду";
+"Error" = "Ошибка";
